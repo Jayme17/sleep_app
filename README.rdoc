@@ -1,27 +1,8 @@
-As a user
-I want to be able use a mobile app
-So that I can use it anywhere I go if Im not around school
-
-As a administrator
-I want to log in and watch over the site
-So that I can check the feedback of the customers
-
-As a user
-I want to be able to follow my favorite artist
-So that I can stay updated on when something new happens 
-
-As a user
-I want to be able to log in
-So that I can enjoy music and other features of the site
-
-As a user
-I want to be able to download music
-So that I wont have to pay money for just one single
-
-As a user
-I want to signup for a membership
-So that I can get the paid features of the site
-
-As a user
-I want to be able to search the lyrics
-So that I can know the words to the songs
+want to be able use a mobile app
+want to log in and watch over the site
+want to be able to follow my favorite artist
+want to be able to log in
+want to be able to download music
+want to signup for a membership
+want to be able to search the lyrics
+ Join Us at.. Name Coming Soon
