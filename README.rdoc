@@ -1,28 +1,27 @@
-== README
+As a user
+I want to be able use a mobile app
+So that I can use it anywhere I go if Im not around school
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+As a administrator
+I want to log in and watch over the site
+So that I can check the feedback of the customers
 
-Things you may want to cover:
+As a user
+I want to be able to follow my favorite artist
+So that I can stay updated on when something new happens 
 
-* Ruby version
+As a user
+I want to be able to log in
+So that I can enjoy music and other features of the site
 
-* System dependencies
+As a user
+I want to be able to download music
+So that I wont have to pay money for just one single
 
-* Configuration
+As a user
+I want to signup for a membership
+So that I can get the paid features of the site
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+As a user
+I want to be able to search the lyrics
+So that I can know the words to the songs
